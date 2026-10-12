@@ -1,0 +1,14 @@
+{"agent":"planner","tool":"search","args":{"q":"flight SFO LNK"},"result":"no results"}
+{"agent":"planner","tool":"search","args":{"q":"flight SFO LNK"},"result":"no results"}
+{"agent":"planner","tool":"search","args":{"q":"flight SFO LNK"},"result":"no results"}
+{"agent":"planner","tool":"search","args":{"q":"flight SFO LNK"},"result":"no results"}
+{"agent":"planner","tool":"read_file","args":{"path":"a.txt"},"result":"x"}
+{"agent":"planner","tool":"write_file","args":{"path":"a.txt"},"result":"ok"}
+{"agent":"planner","tool":"read_file","args":{"path":"a.txt"},"result":"x"}
+{"agent":"planner","tool":"write_file","args":{"path":"a.txt"},"result":"ok"}
+{"agent":"planner","tool":"read_file","args":{"path":"a.txt"},"result":"x"}
+{"agent":"planner","tool":"write_file","args":{"path":"a.txt"},"result":"ok"}
+{"agent":"planner","tool":"fetch","args":{"url":"/p/1"},"result":"403"}
+{"agent":"planner","tool":"fetch","args":{"url":"/p/2"},"result":"403"}
+{"agent":"planner","tool":"fetch","args":{"url":"/p/3"},"result":"403"}
+{"agent":"planner","tool":"fetch","args":{"url":"/p/4"},"result":"403"}
